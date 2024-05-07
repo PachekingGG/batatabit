@@ -1,0 +1,15 @@
+/* TEXT */
+.header_text, .main_text-1, .main_text-2, .main_text-4 {
+    max-width: 62rem;
+}
+
+/* MAIN SECTION 1 */
+/* TABLAS */
+.tables {
+    column-gap: 5rem;
+    max-width: 60rem;
+}
+/* MAIN SECTION 2 */
+.cards-container  {
+    max-width: 100rem;
+}
